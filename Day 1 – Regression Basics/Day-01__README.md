@@ -1,4 +1,5 @@
-📘 Day 1 – Regression Basics
+**📘 Day 1 – Regression Basics**
+
 📖 Concepts Learned
 - Linear Regression: Fits a straight line to predict continuous values.
 - Logistic Regression: Used for classification problems (yes/no, true/false).
