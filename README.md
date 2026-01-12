@@ -38,4 +38,9 @@ Confusion Matrix, ROC Curve, AUC, Precision, Recall, F1, Cross-validation
 - Built small projects to reinforce learning.
 - Documented progress daily with notebooks and notes.
 
+📝 Bonus
+- Entropy and Information Gain
+- Short Note
+- Overall Q/A Note
+
 ✨ By the end of this journey, I’ve built a strong foundation in AI basics and created a portfolio of practice projects.
