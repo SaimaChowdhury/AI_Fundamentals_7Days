@@ -1,4 +1,5 @@
 🚀 Overview
+
 This repository documents my 7‑day journey into the fundamentals of Machine Learning and AI.
 The goal is to build strong basics in theory and practice, using simple examples, analogies, and small coding projects.
 Each day focuses on a specific set of concepts, with notebooks, notes, and reflections uploaded here.

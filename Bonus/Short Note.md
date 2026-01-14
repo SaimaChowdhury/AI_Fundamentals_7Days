@@ -14,6 +14,7 @@ H(S)=-\sum _{i=1}^cp_i\cdot \log _2(p_i)- Interpretation:
 - If candies are mixed colors → entropy is high (lots of surprise).
 - In decision trees, entropy shows how messy the data is at a node.
 
+---
 
 🔹 Information Gain
 - Definition: Measures reduction in entropy after splitting on a feature.
@@ -29,6 +30,8 @@ IG(S,A)=H(S)-\sum _{v\in Values(A)}\frac{|S_v|}{|S|}\cdot H(S_v)- Interpretation
 - If you split candies by color, each jar becomes less messy → high Information Gain.
 - If you split candies by wrapper size but colors are still mixed → low Information Gain.
 - Decision trees always pick the feature with the highest Information Gain to split.
+
+---
 
 🧪 Quick Analogy
 - Imagine playing “20 Questions.”
