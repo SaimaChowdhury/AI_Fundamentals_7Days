@@ -38,6 +38,7 @@
 
 ---
 **(Cheat‑Sheet)**
+----------------------------------------------------------------------
 
 🎯 Why Evaluate?
 - Prevents overfitting (memorizing instead of learning).
